@@ -12,12 +12,13 @@ body {
 }
 
 h1 {
-    padding: 16px;
-    color: white;
+    text-align: center;
+    padding:16px;
+    color: blue;
 }
 
 p {
-    color: white;
+    color: gray;
     font-size: 16px;
     margin: 16px;
     
@@ -49,6 +50,10 @@ li {
 li:hover {
     background-color: #12171C;
     color: #E0E6EB;
+}
+
+.imgts:hover {
+    border: 20px solid #12171c;
 }
 
 .imgts{
